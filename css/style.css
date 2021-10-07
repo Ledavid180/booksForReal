@@ -392,7 +392,7 @@ footer .column i + i{
     }
 }
 
-@media only screen and (max-width: 426px){
+@media (max-width: 426px){
     .book, .boots {
         display: none;
     }
@@ -404,7 +404,7 @@ footer .column i + i{
     }
 }
 
-@media only screen and (max-width: 320px){
+@media (max-width: 320px){
     .section-4 .card{
         width: 18rem;
     }
